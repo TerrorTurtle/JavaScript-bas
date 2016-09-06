@@ -1,0 +1,16 @@
+#paragraf1 {
+	border: 2px solid black;
+	width:50%;
+	text-align: center;
+	margin: auto;
+}
+
+
+#paragraf2 {
+	border-style: dotted;
+	border-width: 5px;
+	border-color: #66f;
+	margin: auto;
+	width: 30%;
+	margin-top: 40px;
+}
